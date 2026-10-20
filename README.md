@@ -267,4 +267,4 @@ This repository serves as the official landing page for SCRCPY. The software is 
 **Get the most recent version of SCRCPY today!**
 
 ---
-**Last updated:** 2026-10-20 04:08:32 UTC
+**Last updated:** 2026-10-20 09:52:36 UTC
